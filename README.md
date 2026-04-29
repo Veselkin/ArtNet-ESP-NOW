@@ -58,7 +58,7 @@
 | 3.3V | 3.3V |
 | GND | GND |
 
-> Схема питания: [`ArtNet-Master/docs/esp32_w5500_power.drawio`](ArtNet-Master/docs/esp32_w5500_power.drawio)
+> Схема питания: [`ArtNet-Master/docs/esp32_w5500_power.drawio.svg`](ArtNet-Master/docs/esp32_w5500_power.drawio.svg)
 
 ### Слейв — ESP32 + RS-485
 
@@ -73,7 +73,7 @@
 
 > ⚠️ **Никогда не подключайте ESP32 напрямую к DMX-линии** без RS-485 трансивера — это повредит устройство.
 
-> Схема питания: [`ArtNet-Slave/docs/esp32_rs485_dmx_slave.drawio`](ArtNet-Slave/docs/esp32_rs485_dmx_slave.drawio)
+> Схема питания: [`ArtNet-Slave/docs/esp32_rs485_dmx_slave.drawio.svg`](ArtNet-Slave/docs/esp32_rs485_dmx_slave.drawio.svg)
 
 **Распайка XLR-3 для DMX512:**
 
